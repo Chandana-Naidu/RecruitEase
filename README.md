@@ -1,2 +1,2 @@
 # RecruitEase
-Using Flutter and Firebase
+online learning flutter application
