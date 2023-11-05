@@ -1,2 +1,2 @@
 # RecruitEase
-online learning flutter application
+Online learning flutter application
